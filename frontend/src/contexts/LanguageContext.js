@@ -314,7 +314,7 @@ const translations = {
     case2Desc: 'Temps d\'audit réduit de 80%',
     
     case3Title: 'Villes LV / Écoles',
-    case3Metric: 'Surveillance qualité de l'air',
+    case3Metric: 'Surveillance qualité de l\'air',
     case3Desc: 'Amélioration ventilation & résultats santé',
     
     case4Title: 'Détection Chutes UK',
