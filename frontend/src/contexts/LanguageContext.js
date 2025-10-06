@@ -336,7 +336,7 @@ const translations = {
     feedback3Quote: '"Chaîne du froid pharma de Bulgarie vers France : 6 étapes, 52 heures. E2-Supply nous a donné température + GPS seconde par seconde. Quand un conteneur frigorifique est tombé en panne en transit, nous avons réacheminé en 20 min. Réclamation refusée, client satisfait."',
     
     feedback4Title: 'Directrice EHPAD, Normandie',
-    feedback4Quote: '"E2-Care a repéré un changement de routine d'un résident — visites aux toilettes doublées, mouvement la nuit. Nous avons appelé la famille ; le médecin a trouvé une infection urinaire tôt. Ça aurait été une admission à l'hôpital. Vie privée intacte, dignité respectée."',
+    feedback4Quote: '"E2-Care a repéré un changement de routine d\'un résident — visites aux toilettes doublées, mouvement la nuit. Nous avons appelé la famille ; le médecin a trouvé une infection urinaire tôt. Ça aurait été une admission à l\'hôpital. Vie privée intacte, dignité respectée."',
     
     feedback5Title: 'Hôpital Régional, Liepāja',
     feedback5Quote: '"Nous perdons 40k€/an en pompes à perfusion 'manquantes'. Tags E2-Asset + présence pièce = localisation instantanée. Premier mois : trouvé 14 pompes en stock. Utilisation +22%. Retour sur investissement : 7 mois."',
