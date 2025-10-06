@@ -404,7 +404,7 @@ const translations = {
     formEmail: 'Email',
     formPhone: 'Téléphone',
     formCountry: 'Pays',
-    formUseCase: 'Cas d'Usage',
+    formUseCase: 'Cas d\'Usage',
     formMessage: 'Message',
     formSelectUseCase: 'Sélectionnez votre cas d'usage',
     formUseCaseElderly: 'Surveillance Seniors',
