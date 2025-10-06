@@ -311,7 +311,7 @@ const translations = {
     
     case2Title: 'Pharmacies LV',
     case2Metric: '500+ emplacements',
-    case2Desc: 'Temps d'audit réduit de 80%',
+    case2Desc: 'Temps d\'audit réduit de 80%',
     
     case3Title: 'Villes LV / Écoles',
     case3Metric: 'Surveillance qualité de l'air',
