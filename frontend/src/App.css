@@ -1,34 +1,114 @@
-.App-logo {
-    height: 40vmin;
-    pointer-events: none;
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+  font-family: 'Quicksand', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-    .App-logo {
-        animation: App-logo-spin infinite 20s linear;
-    }
+html {
+  scroll-behavior: smooth;
 }
 
-.App-header {
-    background-color: #0f0f10;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: calc(10px + 2vmin);
-    color: white;
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-.App-link {
-    color: #61dafb;
+.App {
+  min-height: 100vh;
 }
 
-@keyframes App-logo-spin {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Print Styles for PDF Generation */
+@media print {
+  @page {
+    size: A4;
+    margin: 12mm 16mm;
+  }
+  
+  body {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+  
+  /* Hide navigation and interactive elements */
+  .no-print,
+  header,
+  button:not(.print-only),
+  .hover\:scale-105,
+  nav {
+    display: none !important;
+  }
+  
+  /* Adjust hero section */
+  #hero {
+    padding-top: 2rem !important;
+    padding-bottom: 1rem !important;
+  }
+  
+  #hero h1 {
+    font-size: 2rem !important;
+    margin-bottom: 1rem !important;
+  }
+  
+  #hero p {
+    font-size: 1rem !important;
+    margin-bottom: 1rem !important;
+  }
+  
+  /* Hide some sections */
+  #feedbacks,
+  #faq {
+    display: none !important;
+  }
+  
+  /* Compact sections */
+  section {
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
+    break-inside: avoid;
+  }
+  
+  h2 {
+    font-size: 1.5rem !important;
+    margin-bottom: 1rem !important;
+  }
+  
+  h3 {
+    font-size: 1.2rem !important;
+  }
+  
+  /* Adjust cards and grids */
+  .grid {
+    gap: 1rem !important;
+  }
+  
+  /* Compact table */
+  table {
+    font-size: 0.75rem !important;
+  }
+  
+  th, td {
+    padding: 0.25rem 0.5rem !important;
+  }
+  
+  /* Footer compact */
+  footer {
+    padding: 1rem 0 !important;
+    page-break-before: avoid;
+  }
+  
+  footer .grid {
+    grid-template-columns: 1fr !important;
+    gap: 0.5rem !important;
+  }
 }
