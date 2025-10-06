@@ -131,7 +131,7 @@ const translations = {
     feedback5Quote: '"We lose €40k/year in \'missing\' infusion pumps. E2-Asset tags + room presence = instant location. First month: found 14 pumps in storage. Utilization up 22%. Payback: 7 months."',
     
     feedback6Title: 'Elderly Living Alone, UK',
-    feedback6Quote: '"My son lives abroad. The E2 watch + pill dispenser reminds me to take meds, calls him if I don't move. I press SOS once—he was on a video call in 30 seconds. I'm independent, he's calm."',
+    feedback6Quote: '"My son lives abroad. The E2 watch + pill dispenser reminds me to take meds, calls him if I don\'t move. I press SOS once—he was on a video call in 30 seconds. I\'m independent, he\'s calm."',
     
     feedback7Title: 'Airport Logistics, Vilnius',
     feedback7Quote: '"Vaccine shipments = zero margin for error. E2-Temp sensors in every coolbox, alerts to our phone. 18 months, 2,400 shipments, zero temperature breaches. Regulators love the audit trail."',
