@@ -125,7 +125,7 @@ const translations = {
     feedback3Quote: '"Pharma cold-chain from Bulgaria to France: 6 legs, 52 hours. E2-Supply gave us second-by-second temp + GPS. When a reefer failed in transit, we rerouted in 20 min. Claim denied, customer happy."',
     
     feedback4Title: 'Care Home Director, Normandy',
-    feedback4Quote: '"E2-Care spotted a resident's routine change—bathroom visits doubled, movement at night. We called the family; GP found a UTI early. It would've been a hospital admission. Privacy intact, dignity respected."',
+    feedback4Quote: '"E2-Care spotted a resident\'s routine change—bathroom visits doubled, movement at night. We called the family; GP found a UTI early. It would\'ve been a hospital admission. Privacy intact, dignity respected."',
     
     feedback5Title: 'Regional Hospital, Liepāja',
     feedback5Quote: '"We lose €40k/year in 'missing' infusion pumps. E2-Asset tags + room presence = instant location. First month: found 14 pumps in storage. Utilization up 22%. Payback: 7 months."',
