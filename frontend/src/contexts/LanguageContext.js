@@ -327,7 +327,7 @@ const translations = {
     discoverMore: 'Voir plus de retours clients →',
     
     feedback1Title: 'Grande Chaîne de Pharmacies, Lettonie',
-    feedback1Quote: '"Avant E2-Temp, nous enregistrions manuellement les températures des frigos deux fois par jour. Les audits étaient stressants. Maintenant ? Clic, export PDF, terminé. Nous avons détecté 3 pannes de frigo avant qu'elles ne nous coûtent du stock. ROI en 4 mois."',
+    feedback1Quote: '"Avant E2-Temp, nous enregistrions manuellement les températures des frigos deux fois par jour. Les audits étaient stressants. Maintenant ? Clic, export PDF, terminé. Nous avons détecté 3 pannes de frigo avant qu\'elles ne nous coûtent du stock. ROI en 4 mois."',
     
     feedback2Title: 'Conseil Municipal, Riga',
     feedback2Quote: '"Nous avons déployé des capteurs de qualité de l'air E2 dans 12 écoles. Les parents reçoivent un score AQI quotidien. Les enseignants ajustent la ventilation. Les jours de maladie ont chuté de 18% le premier hiver. Décisions basées sur les données, zéro supposition."',
