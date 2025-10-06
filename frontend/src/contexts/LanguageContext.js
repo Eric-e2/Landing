@@ -339,7 +339,7 @@ const translations = {
     feedback4Quote: '"E2-Care a repéré un changement de routine d\'un résident — visites aux toilettes doublées, mouvement la nuit. Nous avons appelé la famille ; le médecin a trouvé une infection urinaire tôt. Ça aurait été une admission à l\'hôpital. Vie privée intacte, dignité respectée."',
     
     feedback5Title: 'Hôpital Régional, Liepāja',
-    feedback5Quote: '"Nous perdons 40k€/an en pompes à perfusion 'manquantes'. Tags E2-Asset + présence pièce = localisation instantanée. Premier mois : trouvé 14 pompes en stock. Utilisation +22%. Retour sur investissement : 7 mois."',
+    feedback5Quote: '"Nous perdons 40k€/an en pompes à perfusion \'manquantes\'. Tags E2-Asset + présence pièce = localisation instantanée. Premier mois : trouvé 14 pompes en stock. Utilisation +22%. Retour sur investissement : 7 mois."',
     
     feedback6Title: 'Senior Vivant Seul, UK',
     feedback6Quote: '"Mon fils vit à l\'étranger. La montre E2 + pilulier me rappelle de prendre mes médicaments, l\'appelle si je ne bouge pas. J\'appuie sur SOS une fois — il était en appel vidéo en 30 secondes. Je suis indépendant, il est calme."',
