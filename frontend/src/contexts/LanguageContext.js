@@ -302,7 +302,7 @@ const translations = {
     complianceFeature8: 'SSO (Feuille de Route)',
     
     // Results
-    resultsTitle: 'Résultats & Cas d'Usage',
+    resultsTitle: 'Résultats & Cas d\'Usage',
     resultsSubtitle: 'Impact réel dans tous les secteurs',
     
     case1Title: 'Aéroport LT',
