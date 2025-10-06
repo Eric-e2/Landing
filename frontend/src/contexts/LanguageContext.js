@@ -410,7 +410,7 @@ const translations = {
     formUseCaseElderly: 'Surveillance Seniors',
     formUseCaseTemp: 'Température & Humidité',
     formUseCaseColdChain: 'Chaîne du Froid / Supply Chain',
-    formUseCaseAssets: 'Suivi d'Actifs',
+    formUseCaseAssets: 'Suivi d\'Actifs',
     formUseCaseSmart: 'Appareils Intelligents',
     formUseCaseOther: 'Autre',
     formSuccess: 'Merci ! Nous vous contacterons bientôt.',
