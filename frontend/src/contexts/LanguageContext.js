@@ -382,7 +382,7 @@ const translations = {
     faq1A: 'Pilote en quelques jours ; déploiement complet en quelques semaines selon le nombre de sites.',
     
     faq2Q: 'Supportez-vous plusieurs langues ?',
-    faq2A: 'Oui : EN/FR/LV/LT/DE/RU dans l'app ; autres sur demande.',
+    faq2A: 'Oui : EN/FR/LV/LT/DE/RU dans l\'app ; autres sur demande.',
     
     faq3Q: 'Quelles connectivités ?',
     faq3A: 'Capteurs BLE, relais Hop/LTE/NB-IoT ; Wi-Fi quand disponible.',
