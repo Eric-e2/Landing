@@ -423,7 +423,7 @@ const translations = {
     footerWebsite: 'Site web',
     footerPartners: 'Partenaires',
     footerPrivacy: 'Politique de Confidentialité',
-    footerTerms: 'Conditions d'Utilisation',
+    footerTerms: 'Conditions d\'Utilisation',
   }
 };
 
