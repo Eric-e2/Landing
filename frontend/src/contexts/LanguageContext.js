@@ -277,7 +277,7 @@ const translations = {
     pillar5Desc: 'Montres, piluliers, IA vocale (EN/FR/LV/LT/DE/RU).',
     pillar5Benefit1: 'Observance médicamenteuse',
     pillar5Benefit2: 'Aide instantanée',
-    pillar5Benefit3: 'Tranquillité d'esprit',
+    pillar5Benefit3: 'Tranquillité d\'esprit',
     pillar5Benefit4: 'Intégration directe avec tableau de bord E2',
     
     // How It Works
