@@ -406,7 +406,7 @@ const translations = {
     formCountry: 'Pays',
     formUseCase: 'Cas d\'Usage',
     formMessage: 'Message',
-    formSelectUseCase: 'Sélectionnez votre cas d'usage',
+    formSelectUseCase: 'Sélectionnez votre cas d\'usage',
     formUseCaseElderly: 'Surveillance Seniors',
     formUseCaseTemp: 'Température & Humidité',
     formUseCaseColdChain: 'Chaîne du Froid / Supply Chain',
