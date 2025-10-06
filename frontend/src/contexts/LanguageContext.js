@@ -295,7 +295,7 @@ const translations = {
     complianceFeature1: 'Conforme RGPD',
     complianceFeature2: 'Hébergement UE',
     complianceFeature3: 'Accès Basé sur les Rôles',
-    complianceFeature4: 'Journaux d'Audit',
+    complianceFeature4: 'Journaux d\'Audit',
     complianceFeature5: 'Clés API & Sécurité',
     complianceFeature6: 'Bonnes Pratiques GxP',
     complianceFeature7: 'Tableau de Bord Multi-Tenant',
