@@ -202,7 +202,7 @@ const translations = {
     formUseCaseAssets: 'Asset Tracking',
     formUseCaseSmart: 'Smart Devices',
     formUseCaseOther: 'Other',
-    formSuccess: 'Thank you! We'll be in touch soon.',
+    formSuccess: 'Thank you! We\'ll be in touch soon.',
     formCalendar: 'Add a 20-min call to my calendar',
     formWhatsApp: 'Prefer WhatsApp? Message us',
     
