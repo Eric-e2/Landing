@@ -267,7 +267,7 @@ const translations = {
     pillar3Benefit4: 'Résilience store-and-forward',
     
     pillar4Title: 'E2-Asset Tracking — Hôpitaux',
-    pillar4Desc: 'Suivi d'actifs critiques avec présence pièce-niveau, profils d'usage, maintenance intégrée.',
+    pillar4Desc: 'Suivi d\'actifs critiques avec présence pièce-niveau, profils d\'usage, maintenance intégrée.',
     pillar4Benefit1: 'Gain de temps',
     pillar4Benefit2: 'Meilleure utilisation',
     pillar4Benefit3: 'Prévention des pertes',
