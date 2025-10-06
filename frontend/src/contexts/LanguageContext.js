@@ -237,7 +237,7 @@ const translations = {
     socialProofTitle: 'La confiance des organisations leaders',
     quote1: '"E2-Care nous a donné une visibilité inédite. La détection précoce a sauvé des vies."',
     quote1Author: '— Directrice EHPAD, France',
-    quote2: '"Les audits de conformité sont désormais sans effort. Export, terminé. Fini l'enfer des tableurs."',
+    quote2: '"Les audits de conformité sont désormais sans effort. Export, terminé. Fini l\'enfer des tableurs."',
     quote2Author: '— Chaîne de pharmacies, Lettonie',
     
     // Solutions
