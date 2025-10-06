@@ -330,7 +330,7 @@ const translations = {
     feedback1Quote: '"Avant E2-Temp, nous enregistrions manuellement les températures des frigos deux fois par jour. Les audits étaient stressants. Maintenant ? Clic, export PDF, terminé. Nous avons détecté 3 pannes de frigo avant qu\'elles ne nous coûtent du stock. ROI en 4 mois."',
     
     feedback2Title: 'Conseil Municipal, Riga',
-    feedback2Quote: '"Nous avons déployé des capteurs de qualité de l'air E2 dans 12 écoles. Les parents reçoivent un score AQI quotidien. Les enseignants ajustent la ventilation. Les jours de maladie ont chuté de 18% le premier hiver. Décisions basées sur les données, zéro supposition."',
+    feedback2Quote: '"Nous avons déployé des capteurs de qualité de l\'air E2 dans 12 écoles. Les parents reçoivent un score AQI quotidien. Les enseignants ajustent la ventilation. Les jours de maladie ont chuté de 18% le premier hiver. Décisions basées sur les données, zéro supposition."',
     
     feedback3Title: 'Transitaire International',
     feedback3Quote: '"Chaîne du froid pharma de Bulgarie vers France : 6 étapes, 52 heures. E2-Supply nous a donné température + GPS seconde par seconde. Quand un conteneur frigorifique est tombé en panne en transit, nous avons réacheminé en 20 min. Réclamation refusée, client satisfait."',
