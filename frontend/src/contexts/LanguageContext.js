@@ -227,7 +227,7 @@ const translations = {
     
     // Hero
     heroHeadline: 'Visibilité temps réel pour le care & les actifs critiques.',
-    heroSubcopy: 'Du suivi d'activité des seniors aux équipements hospitaliers et à la chaîne du froid. Capteurs ultra-basse consommation + plateforme cloud évolutive.',
+    heroSubcopy: 'Du suivi d\'activité des seniors aux équipements hospitaliers et à la chaîne du froid. Capteurs ultra-basse consommation + plateforme cloud évolutive.',
     bookDemo: 'Réserver une Démo',
     startPilot: 'Lancer un Pilote',
     getOnePager: 'Obtenir la fiche (PDF)',
