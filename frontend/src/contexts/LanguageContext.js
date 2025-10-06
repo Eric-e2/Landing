@@ -253,7 +253,7 @@ const translations = {
     pillar1Benefit4: 'Déploiement facile',
     
     pillar2Title: 'E2-Temp & Humidité — Pharmacies & Hôpitaux',
-    pillar2Desc: 'Capteurs étalonnés + journalisation audit-ready, alertes en cas d'excursion, rapports exportables (PDF/CSV), API.',
+    pillar2Desc: 'Capteurs étalonnés + journalisation audit-ready, alertes en cas d\'excursion, rapports exportables (PDF/CSV), API.',
     pillar2Benefit1: 'Support conformité (bonnes pratiques GxP)',
     pillar2Benefit2: 'Réduction des pertes de produits',
     pillar2Benefit3: 'Audits plus rapides',
