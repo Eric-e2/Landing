@@ -345,7 +345,7 @@ const translations = {
     feedback6Quote: '"Mon fils vit à l\'étranger. La montre E2 + pilulier me rappelle de prendre mes médicaments, l\'appelle si je ne bouge pas. J\'appuie sur SOS une fois — il était en appel vidéo en 30 secondes. Je suis indépendant, il est calme."',
     
     feedback7Title: 'Logistique Aéroport, Vilnius',
-    feedback7Quote: '"Expéditions de vaccins = zéro marge d'erreur. Capteurs E2-Temp dans chaque glacière, alertes sur notre téléphone. 18 mois, 2 400 expéditions, zéro violation de température. Les régulateurs adorent la piste d'audit."',
+    feedback7Quote: '"Expéditions de vaccins = zéro marge d\'erreur. Capteurs E2-Temp dans chaque glacière, alertes sur notre téléphone. 18 mois, 2 400 expéditions, zéro violation de température. Les régulateurs adorent la piste d\'audit."',
     
     // Integrators
     integratorsTitle: 'Intégrateurs & Partenaires Locaux',
