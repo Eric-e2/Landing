@@ -350,7 +350,7 @@ const translations = {
     // Integrators
     integratorsTitle: 'Intégrateurs & Partenaires Locaux',
     integratorsSubtitle: 'Grandissez avec nous',
-    integratorsDesc: 'Nous nous associons avec des experts locaux qui comprennent votre marché. Nos intégrateurs gèrent les ventes, l'installation et le support L1. Nous fournissons la plateforme, les API, la formation et les ressources marketing. Modèles de partage des revenus adaptés à votre région et modèle d'affaires.',
+    integratorsDesc: 'Nous nous associons avec des experts locaux qui comprennent votre marché. Nos intégrateurs gèrent les ventes, l\'installation et le support L1. Nous fournissons la plateforme, les API, la formation et les ressources marketing. Modèles de partage des revenus adaptés à votre région et modèle d\'affaires.',
     integratorsTableRegion: 'Région',
     integratorsTableModel: 'Modèle',
     integratorsTableResponsibilities: 'Responsabilités',
