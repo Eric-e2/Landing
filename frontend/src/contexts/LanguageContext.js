@@ -187,7 +187,7 @@ const translations = {
     
     // Contact
     contactTitle: 'Ready to Transform Your Care & Asset Monitoring?',
-    contactSubtitle: 'Let's discuss your specific needs',
+    contactSubtitle: 'Let\'s discuss your specific needs',
     formName: 'Name',
     formCompany: 'Company',
     formEmail: 'Email',
