@@ -287,7 +287,7 @@ const translations = {
     howStep2Title: 'Données en Direct',
     howStep2Desc: 'Les données apparaissent en direct sur votre tableau de bord avec mises à jour en temps réel.',
     howStep3Title: 'L'IA Fait le Reste',
-    howStep3Desc: 'Notre couche d'IA fait le reste : détection de tendances (risques santé), alertes chutes, rappels (prise de pilules) et communication intelligente avec les aidants et la famille.',
+    howStep3Desc: 'Notre couche d\'IA fait le reste : détection de tendances (risques santé), alertes chutes, rappels (prise de pilules) et communication intelligente avec les aidants et la famille.',
     
     // Compliance & Security
     complianceTitle: 'Conformité & Sécurité',
